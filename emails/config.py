@@ -1,0 +1,1 @@
+baseDirectory = 'D:\\www\\NovaCodigo\\cielo-emkts\\2022\\'

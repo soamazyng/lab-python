@@ -1,1 +1,5 @@
 .DS_Store
+emails/__pycache__/config.cpython-310.pyc
+emails/build/*
+emails/build/renameTagsImg/*
+emails/build/renameTagsImg/PKG-00.toc
